@@ -1,6 +1,6 @@
 # Portfolio of Sahil Anand
 
-<img src ="![Screenshot 2024-09-18 155544](https://github.com/user-attachments/assets/df65f1a1-26b3-4873-a38f-f55e81b851cf)"/>
+![Screenshot 2024-09-18 155544](https://github.com/user-attachments/assets/2275b4a9-3120-4c5c-a488-977cb8fdbf3e)
 
 This project was created with CRA (Create React App)
 
