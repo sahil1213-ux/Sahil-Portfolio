@@ -7,7 +7,6 @@ import linkedin from "../../assets/linkedin.svg";
 import githubIcon from "../../assets/github.svg";
 import whatsapp from "../../assets/whatsapp.svg";
 import Hello from "../../assets/Hello.gif";
-import telegram from "../../assets/telegram.svg";
 export function Hero() {
   return (
     <Container id="home">
@@ -21,7 +20,7 @@ export function Hero() {
           <h1>Sahil Anand</h1>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.4 * 1000}>
-          <h3>JavaScript Developer</h3>
+          <h3 style={{ margin: 12 }}>JavaScript Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
           <BrowserRouter>
@@ -33,28 +32,25 @@ export function Hero() {
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
           <div className="social-media">
             <a
-              href="https://www.linkedin.com/in/codevinayak"
+              href="https://www.linkedin.com/in/sahil-anand-00ba36256"
               target="_blank"
               rel="noreferrer"
             >
               <img src={linkedin} alt="Linkedin" />
             </a>
             <a
-              href="https://github.com/CodeVinayak/"
+              href="https://github.com/sahil1213-ux"
               target="_blank"
               rel="noreferrer"
             >
               <img src={githubIcon} alt="GitHub" />
             </a>
             <a
-              href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
+              href="https://api.whatsapp.com/send/?phone=%2B919818807692&text=Hello+Sahil"
               target="_blank"
               rel="noreferrer"
             >
               <img src={whatsapp} alt="Whatsapp" />
-            </a>
-            <a href="https://t.me/CodeVinayak" target="_blank" rel="noreferrer">
-              <img src={telegram} alt="telegram" />
             </a>
           </div>
         </ScrollAnimation>
