@@ -1,7 +1,6 @@
 # Portfolio of Vinayak Singh
 
-<img src ="![Screenshot 2024-09-18 155544](https://github.com/user-attachments/assets/3c4aec11-5af7-4215-9e1d-6188f58f516d)
-" />
+<img src ="![Screenshot 2024-09-18 155544](https://github.com/user-attachments/assets/df65f1a1-26b3-4873-a38f-f55e81b851cf)"/>
  
 This project was created with CRA (Create React App)
 
