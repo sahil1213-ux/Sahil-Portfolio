@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Sahil-Portfolio/static/css/main.f029a054.css",
-    "main.js": "/Sahil-Portfolio/static/js/main.2efa3851.js",
-    "static/media/VinayakSingh.png": "/Sahil-Portfolio/static/media/VinayakSingh.b47f5e7975b80ccbd448.png",
+    "main.js": "/Sahil-Portfolio/static/js/main.d5cdbd15.js",
+    "static/media/SahilAnand.png": "/Sahil-Portfolio/static/media/SahilAnand.d7bb8f3ffff7a3e456d2.png",
     "static/media/Hello.gif": "/Sahil-Portfolio/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/Vinayak_Kumar_Singh_Resume.pdf": "/Sahil-Portfolio/static/media/Vinayak_Kumar_Singh_Resume.b4572eebc9a23410e840.pdf",
+    "static/media/Sahil_resume.pdf": "/Sahil-Portfolio/static/media/Sahil_resume.716efb9dce72ae60824d.pdf",
     "static/media/illustration.svg": "/Sahil-Portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/sass-icon.svg": "/Sahil-Portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/node-icon.svg": "/Sahil-Portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
@@ -13,7 +13,6 @@
     "static/media/bootstrap-icon.svg": "/Sahil-Portfolio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
     "static/media/react-icon.svg": "/Sahil-Portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
     "index.html": "/Sahil-Portfolio/index.html",
-    "static/media/telegram.svg": "/Sahil-Portfolio/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
     "static/media/instagram.svg": "/Sahil-Portfolio/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
     "static/media/phone-icon.svg": "/Sahil-Portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
     "static/media/shopify.svg": "/Sahil-Portfolio/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
@@ -27,10 +26,10 @@
     "static/media/js-icon.svg": "/Sahil-Portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/Sahil-Portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "main.f029a054.css.map": "/Sahil-Portfolio/static/css/main.f029a054.css.map",
-    "main.2efa3851.js.map": "/Sahil-Portfolio/static/js/main.2efa3851.js.map"
+    "main.d5cdbd15.js.map": "/Sahil-Portfolio/static/js/main.d5cdbd15.js.map"
   },
   "entrypoints": [
     "static/css/main.f029a054.css",
-    "static/js/main.2efa3851.js"
+    "static/js/main.d5cdbd15.js"
   ]
 }
